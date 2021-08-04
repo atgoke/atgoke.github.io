@@ -128,6 +128,10 @@ body {
 		font-style: italic;
 	}
 
+	article {
+		padding: 0 0 2em 0;
+	}
+
 
 	.align-left {
 		text-align: left;
@@ -2098,7 +2102,6 @@ body {
 
 			section.special, article.special {
 				text-align: center;
-				margin: 0 0 2em 0;
 			}
 
 		/* List */
